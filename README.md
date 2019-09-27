@@ -10,7 +10,10 @@
 #### install third-party packages (run once)
 - <code>./mvnw clean package</code>
 
-#### run application
+#### compile code (run once - or whenever code base changes)
+- <code>./mvnw compile</code>
+
+#### run compiled application
 - <code>./mvnw exec:java -Dexec.mainClass="Application" -Dexec.args="table-1.txt"</code>
 - reads file from /src/main/resources folder
   
