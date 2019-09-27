@@ -1,0 +1,74 @@
+1a
+
+
+1b
+
+
+2a
+Task Utilization 1: 0.025818
+Task Utilization 2: 0.1205212
+Task Utilization 3: 0.0013748
+Task Utilization 4: 4.088E-4
+Task Utilization 5: 0.022939599999999997
+Task Utilization 6: 0.0230228
+Task Utilization 7: 0.023189599999999998
+Task Utilization 8: 0.0235228
+Task Utilization 9: 0.0241888
+Task Utilization 10: 0.0172284
+Task Utilization 11: 0.0310688
+Task Utilization 12: 0.05875
+Task Utilization 13: 0.028732
+Task Utilization 14: 0.0295996
+Task Utilization 15: 0.0313348
+Task Utilization 16: 0.0348048
+Task Utilization 17: 0.0348048
+Task Utilization 18: 0.0325056
+Task Utilization 19: 0.0325056
+Task Utilization 20: 0.033926000000000005
+Task Utilization 21: 0.0367672
+Task Utilization 22: 0.0367672
+Task Utilization 23: 0.0067342
+Task Utilization 24: 0.0067342
+Task Utilization 25: 0.0067342
+Task Utilization 26: 0.0067342
+Task Utilization 27: 0.0067342
+Task Utilization 28: 0.012868000000000001
+Task Utilization 29: 0.0140716
+Task Utilization 30: 0.0145452
+Task Utilization 31: 0.0207656
+Task Utilization 32: 5.984E-4
+Task Utilization 33: 0.00159565
+Task Utilization 34: 0.0025561
+Task Utilization 35: 2.5235000000000004E-4
+Task Utilization 36: 2.953E-4
+Task Utilization 37: 4.133166666666667E-4
+Task Utilization 38: 3.316666666666667E-5
+Task Utilization 39: 1.1496666666666666E-4
+
+
+2b
+system utilization: 0.80556185
+
+
+2c
+hyper period: 6000.0
+
+
+2d
+a - possible frame-sizes (all constraints): [40, 48, 50, 60, 75, 80, 100, 120, 125, 150, 250]
+b - possible frame-sizes (w/o constraint 1): [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 16, 20, 24, 25, 30, 40, 48, 50, 60, 75, 80, 100, 120, 125, 150, 250]
+
+
+2e
+separate file
+
+
+2f
+frame-size = 250
+
+2g
+num-minor-cycles = 6000/250 = 24
+
+
+2h
+separate file

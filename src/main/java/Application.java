@@ -10,6 +10,7 @@ public class Application {
     public static void main(String[] args) throws IOException {
         // read file from /src/main/resources folder
         File file = new File(Application.class.getClassLoader().getResource(args[0]).getFile());
+//         File file = new File("absolute path");
         ArrayList<Task> tasks = Task.getTasks(file);
 
         for (int i = 0; i < tasks.size(); i++) {

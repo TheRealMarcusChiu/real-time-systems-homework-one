@@ -18,4 +18,8 @@
 - or
 - <code>./mvnw exec:java -Dexec.mainClass="Application" -Dexec.args="table-2.txt"</code>
 - reads file from /src/main/resources folder
+
+#### If Trouble Reading File
+- comment out line 12 of Application.java
+- uncomment line 13 and replace "absolute path"
   
