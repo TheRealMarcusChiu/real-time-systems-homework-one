@@ -1,3 +1,9 @@
+## Homework
+- homework description is in /homework-description directory
+- answers are within /homework/description/answers directory
+
+## Running Project
+
 - download project
 - all Java Code files in /src/main/java folder
 
