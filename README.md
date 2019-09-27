@@ -1,6 +1,12 @@
 - download project
 - all Java Code files in /src/main/java folder
 
+#### Prerequisites
+- java 1.8 (version 8)
+
+#### Using mvnw
+- all <code>./mvnw</code> commands should be executed at project home directory
+
 #### install third-party packages (run once)
 - <code>./mvnw clean package</code>
 

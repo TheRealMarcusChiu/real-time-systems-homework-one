@@ -16,14 +16,14 @@ public class Application {
             Task task = tasks.get(i);
             System.out.println("Task Utilization " + (i + 1) + ": " + TaskSchedulerInfo.getTaskUtilization(task));
         }
-        System.out.println("system utilization: " + TaskSchedulerInfo.getSystemUtilization(tasks));
-        System.out.println("hyper period: " + TaskSchedulerInfo.getHyperPeriod(tasks));
+        System.out.println("System Utilization: " + TaskSchedulerInfo.getSystemUtilization(tasks));
+        System.out.println("Hyper Period: " + TaskSchedulerInfo.getHyperPeriod(tasks));
 
         List<Integer> possibleFrameSizes = TaskSchedulerInfo.getPossibleFrameSizes(tasks, true);
-        System.out.println("possible frame-sizes (all constraints): " + possibleFrameSizes.toString());
+        System.out.println("Possible Frame-Sizes (All Constraints): " + possibleFrameSizes.toString());
 
         possibleFrameSizes = TaskSchedulerInfo.getPossibleFrameSizes(tasks, false);
-        System.out.println("possible frame-sizes (w/o constraint 1): " + possibleFrameSizes.toString());
+        System.out.println("Possible Frame-Sizes (W/O Constraint 1): " + possibleFrameSizes.toString());
 
 //        ArrayList<Task> tasks = new ArrayList<>();
 //        tasks.add(new Task(1,0.0,4.0,1.0,4.0));
