@@ -1,4 +1,5 @@
 - download project
+- all Java Code files in /src/main/java folder
 
 #### install third-party packages (run once)
 - <code>./mvnw clean package</code>
