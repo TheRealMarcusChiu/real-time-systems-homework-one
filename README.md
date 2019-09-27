@@ -15,5 +15,7 @@
 
 #### run compiled application
 - <code>./mvnw exec:java -Dexec.mainClass="Application" -Dexec.args="table-1.txt"</code>
+- or
+- <code>./mvnw exec:java -Dexec.mainClass="Application" -Dexec.args="table-2.txt"</code>
 - reads file from /src/main/resources folder
   
